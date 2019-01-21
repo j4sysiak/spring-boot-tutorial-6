@@ -1,4 +1,9 @@
-deployed on heroku:  https://spring-boot-tutorial-5.herokuapp.com/
+1. mvn clean install
+
+aplikacja w heroku:  spring-boot-tutorial-6
+
+
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
