@@ -3,7 +3,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.caveofprogramming</groupId>
+	<groupId>pl.jaceksysiak</groupId>
 	<artifactId>spring-boot-tutorial-6</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
